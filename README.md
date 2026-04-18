@@ -21,7 +21,7 @@ This project conducts a comprehensive data analysis of **Apple Inc. (AAPL) stock
 - **Core Libraries**:
   - `pandas`: Data loading, cleaning, and statistical analysis
   - `numpy`: Numerical calculations (returns, volatility, etc.)
-  - `yfinance`: Real-time stock data acquisition
+  - `wrds`: Real-time stock data acquisition
   - `matplotlib` / `seaborn` / `plotly`: Data visualization (price charts, volume trends, technical indicators)
   - chatgpt4.0 and Grok for code error correction
 - **Environment**: Jupyter Notebook
