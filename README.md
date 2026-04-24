@@ -26,3 +26,5 @@ This project conducts a comprehensive data analysis of **Apple Inc. (AAPL) stock
   - chatgpt4.0 and Grok for code error correction
 - **Environment**: Jupyter Notebook
 
+##   Video link
+ https://youtu.be/u2-puJUsBUw
